@@ -5,6 +5,6 @@ This is a project to model active Covid-19 cases in Australia from December thro
 
 The data for this project was taken from the following link: https://ourworldindata.org/coronavirus/country/australia
 
-The article for this project can be found here:
+*The article for this project can be found here:*
 
 https://medium.com/@rpandeya29/an-example-of-sir-disease-modelling-omicron-in-australia-9bd2e397d3d8
